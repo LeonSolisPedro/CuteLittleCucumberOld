@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: Web",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/Web/Web.csproj",
+      "launchConfigurationId": "TargetFramework=;Web"
+    }
+  ]
+}
